@@ -8,7 +8,7 @@ Para el caso del proyecto en Latex será necesario descargar tanto el archivo **
 
 📚 Introducción:
 
-En éste artículo trataremos una enfermedad existente debido al surgimiento actual de la pandemia, surge un problema básico que pretende describir mediante el uso de una Ecuación Diferencial de Primer Orden, el comportamiento de una pequena epidemia regida por ciertas restricciones hipóteticas que permitan establecer en el dominio del tiempo como sería el desempeño de esta situación en una localidad con cierto número de habitantes.
+En éste artículo trataremos una enfermedad existente debido al surgimiento actual de la pandemia, surge un problema básico que pretende describir mediante el uso de una Ecuación Diferencial de Primer Orden, el comportamiento de una pequeña epidemia regida por ciertas restricciones hipóteticas que permitan establecer en el dominio del tiempo como sería el desempeño de esta situación en una localidad con cierto número de habitantes.
 
 📌 Contenido:
 
